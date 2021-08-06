@@ -7,3 +7,5 @@ def maxOfTwo(a,b):
         return a
     else:
         return b
+ 
+maxOfTwo(12,13)
